@@ -12,10 +12,12 @@ buscando evoluir tecnicamente e profissionalmente através de projetos reais.
 
 ##
 
+
+
 <div align=center>
   <a href="https://github.com/JonathanMRodrigues">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=jonathanmrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmrodrigues&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jonathanmrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmrodrigues&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 ##
@@ -29,6 +31,12 @@ buscando evoluir tecnicamente e profissionalmente através de projetos reais.
   <a href="https://github.com/JonathanMRodrigues"><img align="center" alt="C-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"></a> 
   <a href="https://github.com/JonathanMRodrigues"><img align="center" alt="PHP-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></a> 
 </div>
+
+##
+
+### 📫 Contato
+- Github: https://github.com/JonathanMRodrigues
+- Linkedin: https://www.linkedin.com/in/jonathanmoraisrodriguesdev/
 
 ##
 
