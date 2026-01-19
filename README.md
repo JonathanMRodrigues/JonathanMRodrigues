@@ -1,3 +1,6 @@
+[🇺🇸 English](docs/README-en.md) | [🇮🇹 Italiano](docs/README-it.md)
+
+
 ## Olá, Eu sou Jonathan M. Rodrigues! 
 
 - 👨🏾‍💻 Atualmente estudo Analise e Desenvolvimento de Sistemas
@@ -6,7 +9,7 @@
 ##
 
 ### 🚀 Sobre mim
-Sou um estudante de analise e desenvolvimento de sistemas com foco em desenvolvimento web.
+Sou um estudante de analise e desenvolvimento de sistemas com foco em desenvolvimento web.<br>
 Tenho experiencia com tecnologias front-end e back-end e estou sempre
 buscando evoluir tecnicamente e profissionalmente através de projetos reais.
 
