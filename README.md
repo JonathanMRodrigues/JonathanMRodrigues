@@ -1,14 +1,14 @@
-## Hi there, I'm Jonathan M. Rodrigues! 
+## Olá, Eu sou Jonathan M. Rodrigues! 
 
-- 👨🏾‍💻 I currently study System analysis and development
-- 🎯 Available for jobs opportunities
+- 👨🏾‍💻 Atualmente estudo Analise e Desenvolvimento de Sistemas
+- 🎯 Disponivel para oportunidade de trabalho
 
 ##
 
-### 🚀 About me
-I am a Systems Analysis and Development student focused on web development.
-I have experience with front-end and back-end technologies and I am always
-looking to improve my skills through real projects.
+### 🚀 Sobre mim
+Sou um estudante de analise e desenvolvimento de sistemas com foco em desenvolvimento web.
+Tenho experiencia com tecnologias front-end e back-end e estou sempre
+buscando evoluir tecnicamente e profissionalmente através de projetos reais.
 
 ##
 
@@ -21,7 +21,7 @@ looking to improve my skills through real projects.
 ##
   
 <div align=center style="display: inline_block"><br>
-  <p>My programming languages:</p>
+  <p>Minhas linguagens de programação:</p>
   <a href="https://github.com/JonathanMRodrigues"><img align="center" alt="HTML5-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></a>
   <a href="https://github.com/JonathanMRodrigues"><img align="center" alt="CSS3-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></a> 
   <a href="https://github.com/JonathanMRodrigues"><img align="center" alt="JAVASCRIPT-logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></a> 
