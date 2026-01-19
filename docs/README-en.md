@@ -14,8 +14,8 @@ looking to improve my skills through **real projects**.
 
 <div align=center>
   <a href="https://github.com/JonathanMRodrigues">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jonathanmrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmrodrigues&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=jonathanmrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmrodrigues&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
 ---
