@@ -3,13 +3,13 @@
 
 ## 👋 Olá, Eu sou Jonathan M. Rodrigues! 
 
-- 👨🏾‍💻 Atualmente estudo **Analise e Desenvolvimento de Sistemas**
+- 👨🏾‍💻 Tecnico em Analise e Desenvolvimento de Sistemas
 - 🎯 **Disponivel para oportunidade de trabalho**
 
 ---
 
 ### 🚀 Sobre mim
-Sou um estudante de analise e desenvolvimento de sistemas com foco em desenvolvimento web.<br>
+Sou formado em analise e desenvolvimento de sistemas com foco em desenvolvimento web.<br>
 Tenho experiencia com tecnologias front-end e back-end e estou sempre
 buscando evoluir tecnicamente e profissionalmente através de projetos reais.
 
